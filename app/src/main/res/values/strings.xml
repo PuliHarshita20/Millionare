@@ -1,0 +1,81 @@
+ <resources>
+    <string name="app_name">Who Wants to be a Millionaire</string>
+    <string name="gameinstructions">
+        \n1. Begin the game.\n
+        \n2. Select the answer that you feel is right. \n
+        \n3. Once answer is submitted or confirmed, you cannot change it. \n
+        \n4. You can claim winning amount at any level by clicking prize money. \n
+        \n5. Green if correct and orange if wrong, Remember.\n
+    </string>
+    <string name="Proceed">proceed</string>
+    <string name="exit_toast_msg">You exited the game, prize money lost.</string>
+    <string name="are_you_sure">\nIs that your final choice?\n\nLast chance to change your answer</string>
+    <string name="exit_game_title"> Do you want to Exit Game?</string>
+    <string name="confirmedAlready">Answer already confirmed. Cannot change now. \nPlease go to next question.</string>
+    <string name="confirmed">Answer chosen, \nPlease proceed. </string>
+    <string name="confirmed_wrong">Wrong answer confirmed, \nPlease proceed. </string>
+    <string name="q1">How many rings in Olympic flag?</string>
+    <string name="q1a1">A. Five</string>
+    <string name="q1a2">B. Four</string>
+    <string name="q1a3">C. Six</string>
+    <string name="q1a4">D. Three</string>
+    <string name="q2">Who wrote gone with the wind? </string>
+    <string name="q2a1">A. Harry Houdini</string>
+    <string name="q2a2">B. Douglas Bader</string>
+    <string name="q2a3">C. Margaret Mitchell</string>
+    <string name="q2a4">D. Victoria Cross</string>
+    <string name="q3">Which country do Sinologists study? </string>
+    <string name="q3a1">A. China</string>
+    <string name="q3a2">B. America</string>
+    <string name="q3a3">C. India</string>
+    <string name="q3a4">D. Sri Lanka</string>
+    <string name="q4">What is the worlds first high level programming language 1957 </string>
+    <string name="q4a1">A. Astrology</string>
+    <string name="q4a2">B. Geography</string>
+    <string name="q4a3">C. Geometry</string>
+    <string name="q4a4">D. IBM FORTRAN</string>
+    <string name="q5">What animals live in a drey </string>
+    <string name="q5a1">A. Pinocchio</string>
+    <string name="q5a2">B. Kangaroo</string>
+    <string name="q5a3">C. Squirrel</string>
+    <string name="q5a4">D. Mole</string>
+    <string name="q6">Who, at USA customs declared, nothing but my genius </string>
+    <string name="q6a1">A. Oscar Wilde</string>
+    <string name="q6a2">B. Rock Hudson</string>
+    <string name="q6a3">C. Aldus Huxley</string>
+    <string name="q6a4">D. John wick</string>
+    <string name="q7">What is the common name for the star Sirius?</string>
+    <string name="q7a1">A. Glimmer</string>
+    <string name="q7a2">B. Galaxy Star</string>
+    <string name="q7a3">C. Dog Star</string>
+    <string name="q7a4">D. Milky Star</string>
+    <string name="q8"> Who is the only American president elected unopposed </string>
+    <string name="q8a1">A. George Washington</string>
+    <string name="q8a2">B. Barack Obama</string>
+    <string name="q8a3">C. Donald Trump</string>
+    <string name="q8a4">D. George Bush</string>
+    <string name="q9">Vladamere Ashkenazy plays what musical instrument </string>
+    <string name="q9a1">A. Guitar</string>
+    <string name="q9a2">B. Piano</string>
+    <string name="q9a3">C. Violin</string>
+    <string name="q9a4">D. Drums</string>
+    <string name="q10">Who Invented Popcorn?</string>
+    <string name="q10a1">A. American Indians</string>
+    <string name="q10a2">B. Chineese</string>
+    <string name="q10a3">C. Taiwaneese</string>
+    <string name="q10a4">D. None</string>
+    <string name="money_1">$ 0</string>
+    <string name="money_2">$ 1000</string>
+    <string name="money_3">$ 2000</string>
+    <string name="money_4">$ 7500</string>
+    <string name="money_5">$ 15000</string>
+    <string name="money_6">$ 30000</string>
+    <string name="money_7">$ 50000</string>
+    <string name="money_8">$ 100000</string>
+    <string name="money_9">$ 500000</string>
+    <string name="money_10">$ 1000000</string>
+    <string name="you_won_the_">\nBetter luck next time!</string>
+    <string name="you_won_money">You have won $0</string>
+    <string name="claim_your_money">\n\nWant to continue?\n\nClick on prize money and claim it.</string>
+
+</resources>
